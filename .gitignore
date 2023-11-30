@@ -1,0 +1,34 @@
+# Prerequisites
+*.d
+*.rdb
+**/bin/
+**/bin/log/
+bin/
+*.log
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+**/node_modules/
+**/node_modules
+**/dist
+**/_tmp
+**/_temp
+**/.DS_Store
+.DS_Store
+**/.idea/
+# Precompiled Headers
+*.gch
+*.pch
+
+# Fortran module files
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+# Executables
+*.exe
+*.out
+*.app
